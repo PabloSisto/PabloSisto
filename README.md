@@ -1,9 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Pablo Sisto
 
-<!--
-**PabloSisto/PabloSisto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Backend Developer specialized in Java + Spring Boot  
+🚀 Passionate about clean code, design patterns, and scalable solutions  
+📬 Contact: pablosisto0@gmail.com 
 
-Here are some ideas to get you started:
+## 💼 Featured Projects
+- 🔧 CRM automation using Twilio API (private company project).
+- 🧩 Admin dashboard backend with Spring Boot and secure REST APIs.
+- 🖥 Desktop applications built in `C#` / `.NET` for commercial management.
+
+- ## 🛠 Technologies
+`Java` `Spring Boot` `MySQL` `Twilio API` `REST APIs` `Docker` `Git` `C#` `.NET WinForms`
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
